@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "92bcb6aa798a6f1feadbc917fccb54d3")
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "821215952"))
 DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "XeonFileStoreBot")
+DB_NAME = os.environ.get("DB_NAME", "Xeonfilestore01")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002203107302"))
